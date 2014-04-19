@@ -1,4 +1,4 @@
-# Startup Book
+# Startups for Hackers
 
 The truth and based on my personal experience building a startup.
 

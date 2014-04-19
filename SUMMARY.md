@@ -1,7 +1,15 @@
 # Summary
 
 * [Getting started](starting/README.md)
-* [Failing](failing/README.md)
+* [Product](product/README.md)
+    * [Iterating](product/iterating.md)
+    * [Features](product/features.md)
+* [Technology](technology/README.md)
+    * [Pragmatism](technology/pragmatism.md)
+    * [Automation](technology/automation.md)
+* [Business](business/README.md)
+    * [Metrics](business/metrics.md)
+    * [Clients](business/clients.md)
 * [Exits](exits/README.md)
     * IPO
     * [Acquisition](exits/acquisition.md)
