@@ -2,6 +2,7 @@
 
 * [Getting started](starting/README.md)
 * [Product](product/README.md)
+    * [Vision](product/vision.md)
     * [Iterating](product/iterating.md)
     * [Features](product/features.md)
 * [Technology](technology/README.md)
