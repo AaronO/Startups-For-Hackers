@@ -8,4 +8,6 @@ Vision is in fact much simpler, having a vision is having a deep understanding o
 
 A vision without a product or a technical understanding are dreams, dreams are bad because they're ephemeral and do not provide anything tangible to the world.
 
-Everyone has a dream, few have vision.
+> Everyone has a dream, few have vision.
+
+Without execution you go nowhere, without vision you are lost.
