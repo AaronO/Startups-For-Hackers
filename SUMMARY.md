@@ -5,6 +5,7 @@
     * [Vision](product/vision.md)
     * [Iterating](product/iterating.md)
     * [Features](product/features.md)
+* [Team](team/README.md)
 * [Technology](technology/README.md)
     * [Pragmatism](technology/pragmatism.md)
     * [Automation](technology/automation.md)
